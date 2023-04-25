@@ -1,0 +1,1 @@
+# wellness-correspondence-analysis
